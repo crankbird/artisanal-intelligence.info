@@ -1,12 +1,12 @@
 ---
 title: "visualising-the-future"
-date: 2025-04-14
-author: Your Name # Replace with your actual name or handle
+date: 2025-04-15
+author: Ricky Martin  # Replace with your actual name or handle
 layout: post
 description: "" # Optional description for SEO
-category: [category1, category2] # List of categories, used by SEO plugins
-tags: [tag1, tag2] # Optional tags for grouping content
-image: /assets/images/visualising-the-future/media/media/image1.png # Default image used in previews or cards
+category: [MagicRoundabouts, Futuring] # List of categories, used by SEO plugins
+tags: [LongForm, Introduction, Visualisation] # Optional tags for grouping content
+image: /assets/images/visualising-the-future/media/media/image4.png # Default image used in previews or cards
 ---
 
 # Visualising the future.
@@ -58,25 +58,22 @@ could have been predicted and exploited if we had taken a broader view.
 
 ## Finding new perspectives
 
-One example for NetApp was what some think of as our “just-in-time”
+One example was what some think of my employer's “just-in-time”
 recognition of the importance of sustainability at a corporate level.
-The technology evangelism and market strategy team were tasked with
-discovering how we almost missed it and how to identify and take
-advantage of upcoming changes to customer perceptions and buying
-criteria.
+My team were tasked with discovering how we almost missed it and how 
+to identify and take advantage of upcoming changes to customer perceptions 
+and buying criteria.
 
 Our analysis found a range of reasons why, as an organisation, we
 developed a blind spot to the importance of ESG for IT purchase
 decisions instead of primarily investor relations and how other vendors
 like Pure managed to grab a head start. The simplified explanation is
-that NetApp released its inaugural ESG report when energy prices
+that my employer released its inaugural ESG report when energy prices
 worldwide were at the end of a decade-long decline. In contrast, Pure
 released theirs when power prices in Europe and Japan had increased by a
 factor of eight in six months.
 
-![A graph of a graph showing the growth of the past year Description
-automatically generated with medium
-confidence](/assets/images/visualising-the-future/media/media/image3.png)
+![Two graphs comparing energy prices and the points at which NetApp and Pure released their ESG whitepapers ](/assets/images/visualising-the-future/media/media/image3.png)
 
 We were probably insensitive to the changes in power prices outside of
 the US because research from McKinsey in 2020 said that improving
@@ -84,12 +81,12 @@ operational efficiency and reducing costs was one of the least impactful
 aspects of ESG and had significantly decreased in importance over the
 prior decade.
 
-Pure was more lucky than good in their ESG timing. However, NetApp also
+Our competitor was more lucky than good in their ESG timing. However, we also
 could have beaten them to the punch if we hadn’t still been working on
 assumptions that remained unchallenged even after the disruptive nature
 of the transition in the US presidency on January 6<sup>th</sup> and
 Russia’s subsequent invasion of Ukraine. Both changed the entire energy
-and regulatory landscape. Yet, because NetApp lacked a way of looking
+and regulatory landscape. Yet, because we lacked a repeatable way of looking
 more broadly at all the forces that impact our stakeholders'
 livelihoods, we allowed our competitors to seize the initiative.
 
