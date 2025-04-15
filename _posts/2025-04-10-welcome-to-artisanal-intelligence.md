@@ -10,7 +10,7 @@ ai_assistance: true
 ai_parts:
   - "post title"
   - "first paragraph"
-image: /assets/images/welcome.png
+image: /assets/images/welcome-to-artisanal-intelligence.png
 ---
 
 
