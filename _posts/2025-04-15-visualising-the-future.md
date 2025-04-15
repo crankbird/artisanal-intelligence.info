@@ -1,12 +1,14 @@
 ---
-title: "visualising-the-future"
+title: "Magic Roundabouts(tm) a tool for visualising the future"
 date: 2025-04-15
+last_modified_at: 2025-04-15
 author: Ricky Martin  # Replace with your actual name or handle
 layout: post
 description: "" # Optional description for SEO
 category: [MagicRoundabouts, Futuring] # List of categories, used by SEO plugins
-tags: [LongForm, Introduction, Visualisation] # Optional tags for grouping content
-image: /assets/images/visualising-the-future/media/media/image4.png # Default image used in previews or cards
+tags: [Longform, Introduction, Visualisation] # Optional tags for grouping content
+ai_assistance: false
+image: /assets/images/visualising-the-future/media/media/image10.png # Default image used in previews or cards
 ---
 
 # Visualising the future.

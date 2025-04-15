@@ -1,30 +1,18 @@
 ---
 title: "Welcome to Artisanal Intelligence"
 date: 2025-04-10
-last_modified_at: 2025-04-10
+last_modified_at: 2025-04-15
 layout: post
-author: crankbird
+author: Ricky Martin
 tags: [meta, provenance, ai]
 excerpt: "Launching a blog grounded in transparency, clarity, and attribution."
 ai_assistance: true
 ai_parts:
   - "post title"
   - "first paragraph"
-external_sources:
-  - title: "Digital Minimalism"
-    author: Cal Newport
-    url: https://example.com
-    license: fair use
 image: /assets/images/welcome.png
 ---
 
----
-
-title: "Welcome to Artisanal Intelligence"
-date: 2025-04-10
-author: crankbird
-layout: post
----
 
 # Welcome to *Artisanal Intelligence*
 
@@ -48,7 +36,7 @@ The term *artisanal* might evoke images of sourdough bread, handmade furniture, 
 
 > “The best tools don’t make decisions for you. They help you think better.”
 
-Many modern AI systems are black boxes. Artisanal Intelligence seeks the opposite: **white boxes that support clarity.** We believe that design matters. That a well-structured prompt is as important as the model that reads it. That *interface is part of intelligence*.
+Many modern AI systems are black boxes. Artisanal Intelligence seeks the opposite: **transparent boxes that support clarity.** We believe that design matters. That a well-structured prompt is as important as the model that reads it. That *interface is part of intelligence*.
 
 Here's what that might look like in practice:
 
