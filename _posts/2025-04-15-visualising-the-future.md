@@ -1,5 +1,5 @@
 ---
-title: "Magic Roundabouts(tm) a tool for visualising the future"
+title: "Magic Roundabouts(tm) a tool for visualising trends"
 date: 2025-04-15
 last_modified_at: 2025-04-15
 author: Ricky Martin  # Replace with your actual name or handle
@@ -11,7 +11,7 @@ ai_assistance: false
 image: /assets/images/visualising-the-future/media/media/image10.png # Default image used in previews or cards
 ---
 
-# Visualising the future.
+# Predicting the future via trend visualisation.
 
 ## Intro
 
@@ -138,7 +138,7 @@ measure of the impact that will have. Using the example of
 sustainability as a buying criterion, we might have identified the
 following.
 
-  - Political –
+  - Political 
     
       - Sanctions against Russia
     
@@ -195,8 +195,6 @@ all areas of concern.
 
 This should alert us to areas of under or over-investment and potential
 blind spots.
-
-## 
 
 ## Measuring Impact
 
