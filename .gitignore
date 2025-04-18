@@ -1,0 +1,24 @@
+# Jekyll build artifacts
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Dependency files (optional if not deploying with them)
+Gemfile.lock
+
+# Editor/IDE stuff
+.vscode/
+.idea/
+*.code-workspace
+
+# macOS & Unix
+.DS_Store
+*.swp
+*~
+
+# Scripts / tooling / dev extras
+util-scripts/
+setup-remotes.sh
+
+# Logs
+*.log
