@@ -29,12 +29,23 @@ kramdown:
 
 # Additional metadata
 author: Crankbird
-timezone: Australia/Sydney
+timezone:
+  Australia/Sydney
 
-# Excluded files and folders
+  # Excluded files and folders
 exclude:
   - node_modules
   - vendor
-  - Gemfile*
+  - Gemfile
+  - Gemfile.lock
   - README.md
   - _site
+  - _drafts
+  - util-scripts/
+  - .vscode/
+  - .github/
+  - setup-remotes.sh
+  - .DS_Store
+  - .obsidian/
+  - .idea/
+  - .env

@@ -1,602 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-14T15:27:44+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Artisanal Intelligence</title><subtitle>A blog about artisanal intelligence</subtitle><author><name>Crankbird</name></author><entry><title type="html">test-document-for-convdoc</title><link href="http://localhost:4000/category1/category2/2025/04/14/test-document-for-convdoc.html" rel="alternate" type="text/html" title="test-document-for-convdoc" /><published>2025-04-14T00:00:00+10:00</published><updated>2025-04-14T00:00:00+10:00</updated><id>http://localhost:4000/category1/category2/2025/04/14/test-document-for-convdoc</id><content type="html" xml:base="http://localhost:4000/category1/category2/2025/04/14/test-document-for-convdoc.html"><![CDATA[<p><img src="/assets/images/test-document-for-convdoc/media/media/image1.png" alt="" /></p>
-
-<h1 id="check-1-2--2">Check 1, 2 …. 2</h1>
-
-<h2 id="summary">Summary</h2>
-
-<p>A quick test of the word doc based blog to markdown based Jekyll blog</p>
-
-<h2 id="what-i-want-to-talk-about">What I want to talk about</h2>
-
-<p>Building a fully automated pipeline that lets me create blogs in
-Microsoft word and then have those automagically convert into a Jekll
-blog seems like a good idea to me. Out of this I should be able to use
-most of the content I’ve already created alongside</p>
-
-<p>Here are a selection of tables</p>
-
-<p>Really basic</p>
-
-<table>
-<thead>
-<tr class="header">
-<th></th>
-<th>Column 1</th>
-<th>Column 2</th>
-<th>Column 3</th>
-<th>Column 4</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Row 1</td>
-<td>Now</td>
-<td>Is the time</td>
-<td>For all</td>
-<td>Good men</td>
-</tr>
-<tr class="even">
-<td>Row 2</td>
-<td>To come to</td>
-<td>The aid</td>
-<td>Of</td>
-<td>The party</td>
-</tr>
-<tr class="odd">
-<td>Row 3</td>
-<td>One</td>
-<td>Two three</td>
-<td>Four</td>
-<td>five</td>
-</tr>
-</tbody>
-</table>
-
-<p>With alternating dark and light</p>
-
-<table>
-<thead>
-<tr class="header">
-<th></th>
-<th>Column 1</th>
-<th>Column 2</th>
-<th>Column 3</th>
-<th>Column 4</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Row 1</td>
-<td>Now</td>
-<td>Is the time</td>
-<td>For all</td>
-<td>Good men</td>
-</tr>
-<tr class="even">
-<td>Row 2</td>
-<td>To come to</td>
-<td>The aid</td>
-<td>Of</td>
-<td>The party</td>
-</tr>
-<tr class="odd">
-<td>Row 3</td>
-<td>One</td>
-<td>Two three</td>
-<td>Four</td>
-<td>five</td>
-</tr>
-</tbody>
-</table>
-
-<p>With shading</p>
-
-<table>
-<thead>
-<tr class="header">
-<th></th>
-<th>Column 1</th>
-<th>Column 2</th>
-<th>Column 3</th>
-<th>Column 4</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Row 1</td>
-<td>Now</td>
-<td>Is the time</td>
-<td>For all</td>
-<td>Good men</td>
-</tr>
-<tr class="even">
-<td>Row 2</td>
-<td>To come to</td>
-<td>The aid</td>
-<td>Of</td>
-<td>The party</td>
-</tr>
-<tr class="odd">
-<td>Row 3</td>
-<td>One</td>
-<td>Two three</td>
-<td>Four</td>
-<td>five</td>
-</tr>
-</tbody>
-</table>
-
-<p>Other styling stuff</p>
-
-<table>
-<thead>
-<tr class="header">
-<th></th>
-<th>Column 1</th>
-<th>Column 2</th>
-<th>Column 3</th>
-<th>Column 4</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Row 1</td>
-<td>Now</td>
-<td>Is the time</td>
-<td>For all</td>
-<td>Good men</td>
-</tr>
-<tr class="even">
-<td>Row 2</td>
-<td>To come to</td>
-<td>The aid</td>
-<td>Of</td>
-<td>The party</td>
-</tr>
-<tr class="odd">
-<td>Row 3</td>
-<td>One</td>
-<td>Two three</td>
-<td>Four</td>
-<td>five</td>
-</tr>
-</tbody>
-</table>
-
-<p>Header 3 – just for ships and goggles</p>
-
-<p>Everyone needs to take goggles with them in case the shop sunks</p>]]></content><author><name>Your Name</name></author><category term="[&quot;category1&quot;, &quot;category2&quot;]" /><category term="tag1" /><category term="tag2" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/test-document-for-convdoc/media/media/image1.png" /><media:content medium="image" url="http://localhost:4000/assets/images/test-document-for-convdoc/media/media/image1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">visualising-the-future-with-the-magic-roundabout</title><link href="http://localhost:4000/category1/category2/2025/04/14/visualising-the-future-with-the-magic-roundabout.html" rel="alternate" type="text/html" title="visualising-the-future-with-the-magic-roundabout" /><published>2025-04-14T00:00:00+10:00</published><updated>2025-04-14T00:00:00+10:00</updated><id>http://localhost:4000/category1/category2/2025/04/14/visualising-the-future-with-the-magic-roundabout</id><content type="html" xml:base="http://localhost:4000/category1/category2/2025/04/14/visualising-the-future-with-the-magic-roundabout.html"><![CDATA[<p><strong>Visualising the Future with the Magic Roundabout™ Schematic</strong></p>
-
-<p><strong>Introduction</strong></p>
-
-<p>Predicting future outcomes is crucial in the ever-evolving landscape of
-technology and market trends. Traditional models often fail to provide
-predictive value, especially during rapid change. The Magic Roundabout™
-schematic is designed to address this need by providing a comprehensive
-visual tool for analysing and predicting technology and market trends.</p>
-
-<p><strong>The Challenge</strong></p>
-
-<p>Creating accurate models to predict technology and market trends is
-inherently difficult, mainly when trends are in a state of flux. Leaders
-need tools that offer insights into hidden patterns and biases, enabling
-them to make informed decisions and motivate action.</p>
-
-<p><strong>Existing Tools</strong></p>
-
-<p>While traditional tools like SWOT analysis and the Gartner Hype Cycle
-are helpful, they often reinforce existing biases and fail to provide a
-broad perspective. The Magic Roundabout schematic overcomes these
-limitations by integrating multiple analytical frameworks.</p>
-
-<p><strong>A New Perspective</strong></p>
-
-<p>The Magic Roundabout™ schematic was developed to help organisations
-recognise and adapt to significant technical and market shifts, such as
-the growing importance of sustainability in IT purchase decisions. By
-enabling the analysis of various factors that might not be typically
-included in a tech trend or market analysis, including political,
-economic, and ethical dimensions, this tool helps identify and address
-cognitive biases, blind spots, and where marketing rhetoric is
-disconnected from business development and market priorities.</p>
-
-<p><strong>Categorization and Watchlist Items</strong></p>
-
-<p>The schematic uses a range of categories to analyse the forces impacting
-a business. Methodologies such as Porter’s Five Forces, PEST, and the
-MECE principle can all be integrated to provide a holistic view. For
-example, a PESTLE analysis can reveal the impact of disruptive changes
-across different categories, helping organisations like NetApp to
-challenge long-held assumptions.</p>
-
-<p>Unlike other two-dimensional systems of visualising data, each
-identified trend (watchlist item) can be a member of multiple
-categories, each having a level of impact or horizon unique to that
-category. This allows for a multi-dimensional analysis of the data while
-still preserving a simple and visually appealing representation of the
-dataset that can be constructed with widely available toolsets such as
-Microsoft Excel.</p>
-
-<p><strong>Measuring Impact</strong></p>
-
-<p>To assess the relative importance of different factors, the construction
-of the Magic Roundabout schematic allows for the use of any quantitative
-scale, including hard financial data or other well-understood metrics
-applicable across the problem domain or source dataset. In the absence
-of an objective metric, we recommend a five-point scale to measure
-opinions relating to impact or importance. This qualitative metric
-ensures that speculative data is treated with appropriate caution while
-maintaining transparency in assumptions.</p>
-
-<p>The five-point scale could be structured as follows:</p>
-
-<ol>
-  <li>
-    <p>Very Low Impact</p>
-  </li>
-  <li>
-    <p>Low Impact</p>
-  </li>
-  <li>
-    <p>Medium Impact</p>
-  </li>
-  <li>
-    <p>High Impact</p>
-  </li>
-  <li>
-    <p>Very High Impact</p>
-  </li>
-</ol>
-
-<p>This approach can harmonise data from existing analyst reports,
-providing an intuitive and easily understood way of creating quality
-from a set of quantity ranges or a quantifiable metric from a purely
-qualitative estimate. This qualitative metric ensures that speculative
-data is treated with appropriate caution while maintaining transparency
-in assumptions.</p>
-
-<p><strong>Time Horizons</strong></p>
-
-<p>Predicting time to impact or exactly when a technology is likely to be
-impactful is at best uncertain with the negative consequences of being
-too early to market being as great, if not greater than being late,
-which at least has the potential advantage of leveraging the fast
-follower model. Trends also tend to follow an s-curve adoption which
-makes adoption and time impact at an organisational and market subset
-highly dependent on the ability to adapt to change.</p>
-
-<p><img src="/assets/images/visualising-the-future-with-the-magic-roundabout/media/media/image1.jpeg" alt="Discerning Rejection of Technology - Sudhir Rama Murthy, Monto Mani,
-2013" /></p>
-
-<p>As a result, the schematic also incorporates McKinsey’s Three Horizons
-model to determine the level of investment and management approach
-needed for different trends.</p>
-
-<p><img src="/assets/images/visualising-the-future-with-the-magic-roundabout/media/media/image2.png" alt="" /></p>
-
-<p>Rather than focusing on timelines, the McKinsey model helps
-organizations prepare for future impacts by focusing on the kinds of
-leadership actions should be taken today. This horizon model also maps
-neatly onto the Gartner “Transform, Grow, Run” model.</p>
-
-<p>To aid in identification of which horizon a given trend (watchlist item)
-falls into, the respondent can be asked “what do you know about this
-trend”</p>
-
-<ul>
-  <li>
-    <p>“I have comprehensive knowledge / this is part of my core business”
-= “Known Knowns” = Horizon 1 / Run</p>
-  </li>
-  <li>
-    <p>“I know enough to extract significant value, but there’s still
-things I need to get a handle on” = “Known Unknowns” = Horizon 2 /
-Grow</p>
-  </li>
-  <li>
-    <p>“I know enough to be dangerous” = “Unknown Unknowns” = Horizon 3 /
-Transform</p>
-  </li>
-</ul>
-
-<p>While a three horizon model provides simplicity and power, the magic
-roundabout could also accommodate other time based segmentation across
-more than three categories such as Current Quarter, Current Year, Next
-year, 2+ years, 5+ years, however unless there was sufficient rigor in
-the predictions against these timeframes, they could easily lead to a
-false sense of security that nothing needs to be done, or that dealing
-with that will be someone else’s problem by the time it becomes
-important at which point it may be too late to execute even a fast
-follower strategy.</p>
-
-<p><strong>The Magic Roundabout Schematic</strong></p>
-
-<p>The Magic Roundabout™ schematic combines these categories, watchlist
-items, impact scores, and time horizons into a visually appealing
-sunburst diagram. This tool is available to every user of the Microsoft
-Office suite and can be easily adapted to various needs.</p>
-
-<p><strong>Example Dataset</strong></p>
-
-<p>A simplified Excel spreadsheet table is used to create the schematic:</p>
-
-<table>
-<thead>
-<tr class="header">
-<th>Category</th>
-<th>Horizon 1</th>
-<th>Horizon 2</th>
-<th>Horizon 3</th>
-<th>Importance</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>AI</td>
-<td>.</td>
-<td>.</td>
-<td>AI based Inside-sales</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>AI</td>
-<td>.</td>
-<td>Content Creation</td>
-<td></td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>AI</td>
-<td>Website Chatbots</td>
-<td></td>
-<td></td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>Cloud</td>
-<td>.</td>
-<td>.</td>
-<td>Serverless + PaaS</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td>Cloud</td>
-<td>.</td>
-<td>Containerisation</td>
-<td></td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>Cloud</td>
-<td>Lift &amp; Shift</td>
-<td></td>
-<td></td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>CyberSecurity</td>
-<td>.</td>
-<td>.</td>
-<td>Exfiltration detection and prevention</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>CyberSecurity</td>
-<td>.</td>
-<td>Immutable Snapshots + Logical Airgap</td>
-<td></td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>CyberSecurity</td>
-<td>Traditional Backup</td>
-<td></td>
-<td></td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>Sustainability</td>
-<td>.</td>
-<td>.</td>
-<td>Dynamic Rebalancing to Cloud</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>Sustainability</td>
-<td>.</td>
-<td>Sustainability Reporting</td>
-<td></td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>Sustainability</td>
-<td>HDD to Flash</td>
-<td></td>
-<td></td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>Flash</td>
-<td>.</td>
-<td>.</td>
-<td>PLC</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>Flash</td>
-<td>.</td>
-<td>QLC</td>
-<td></td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>Flash</td>
-<td>High performance flash</td>
-<td></td>
-<td></td>
-<td>3</td>
-</tr>
-</tbody>
-</table>
-
-<p><img src="/assets/images/visualising-the-future-with-the-magic-roundabout/media/media/image3.png" alt="A colorful circular chart with text AI-generated content may be
-incorrect." /></p>
-
-<p>Reweighting this data based on perceived impact from different personas
-or parts of an organisation, or even across different organisations can
-provide a different perspective for example the dataset used above might
-have significantly different importance weightings depending on
-different roles and personas.</p>
-
-<table>
-<thead>
-<tr class="header">
-<th><strong>Category</strong></th>
-<th><strong>Horizon 1</strong></th>
-<th><strong>Horizon 2</strong></th>
-<th><strong>Horizon 3</strong></th>
-<th><strong>Importance</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>AI</strong></td>
-<td>.</td>
-<td>.</td>
-<td>AI based Inside-sales</td>
-<td>2</td>
-</tr>
-<tr class="even">
-<td><strong>AI</strong></td>
-<td>.</td>
-<td>Content Creation</td>
-<td> </td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td><strong>AI</strong></td>
-<td>Website Chatbots</td>
-<td> </td>
-<td> </td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td><strong>Cloud</strong></td>
-<td>.</td>
-<td>.</td>
-<td>Serverless + PaaS</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td><strong>Cloud</strong></td>
-<td>.</td>
-<td>Containerisation</td>
-<td> </td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td><strong>Cloud</strong></td>
-<td>Lift &amp; Shift</td>
-<td> </td>
-<td> </td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td><strong>CyberSecurity</strong></td>
-<td>.</td>
-<td>.</td>
-<td>Exfiltration detection and prevention</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td><strong>CyberSecurity</strong></td>
-<td>.</td>
-<td>Immutable Snapshots + Logical Airgap</td>
-<td> </td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td><strong>CyberSecurity</strong></td>
-<td>Traditional Backup</td>
-<td> </td>
-<td> </td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td><strong>Sustainability</strong></td>
-<td>.</td>
-<td>.</td>
-<td>Dynamic Rebalancing to Cloud</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td><strong>Sustainability</strong></td>
-<td>.</td>
-<td>Sustainability Reporting</td>
-<td> </td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td><strong>Sustainability</strong></td>
-<td>HDD to Flash</td>
-<td> </td>
-<td> </td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td><strong>Flash</strong></td>
-<td>.</td>
-<td>.</td>
-<td>PLC</td>
-<td>2</td>
-</tr>
-<tr class="even">
-<td><strong>Flash</strong></td>
-<td>.</td>
-<td>QLC</td>
-<td> </td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td><strong>Flash</strong></td>
-<td>High performance flash</td>
-<td> </td>
-<td> </td>
-<td>3</td>
-</tr>
-</tbody>
-</table>
-
-<p><img src="/assets/images/visualising-the-future-with-the-magic-roundabout/media/media/image4.png" alt="A colorful circular chart with text AI-generated content may be
-incorrect." /><img src="/assets/images/visualising-the-future-with-the-magic-roundabout/media/media/image5.png" alt="A
-colorful circular chart with text AI-generated content may be
-incorrect." /></p>
-
-<p>By comparing the two graphics it becomes immediately apparent that
-cybersecurity and future threats are perceived by the second persona as
-far more impactful overall than cloud and consumption based economic
-models. By averaging these scores across different personas, companies
-and market segments, trends can be identified that differ across
-geographies and job roles, allowing for a more tailored go-to-market
-response.</p>
-
-<p>This methodology has also been used with more objective information to
-perform an analysis of total addressable market categorised by NetApp’s
-go to market priorities which surfaced up some unexpected insights as
-seen in the following graphic.</p>
-
-<p><img src="/assets/images/visualising-the-future-with-the-magic-roundabout/media/media/image6.emf" alt="" /></p>
-
-<p>The resulting diagrams provides a clear visualization of trends and
-their relative importance, helping organizations navigate the
-complexities of market dynamics.</p>
-
-<p><strong>Conclusion</strong></p>
-
-<p>The Magic Roundabout™ schematic is a powerful tool for business
-consulting in the field of technology. By offering a comprehensive,
-visual method for analyzing market trends, it enables better
-decision-making and strategic planning.</p>]]></content><author><name>Your Name</name></author><category term="[&quot;category1&quot;, &quot;category2&quot;]" /><category term="tag1" /><category term="tag2" /><summary type="html"><![CDATA[Visualising the Future with the Magic Roundabout™ Schematic]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/visualising-the-future-with-the-magic-roundabout/media/media/image1.jpeg" /><media:content medium="image" url="http://localhost:4000/assets/images/visualising-the-future-with-the-magic-roundabout/media/media/image1.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">visualising-the-future</title><link href="http://localhost:4000/category1/category2/2025/04/14/visualising-the-future.html" rel="alternate" type="text/html" title="visualising-the-future" /><published>2025-04-14T00:00:00+10:00</published><updated>2025-04-14T00:00:00+10:00</updated><id>http://localhost:4000/category1/category2/2025/04/14/visualising-the-future</id><content type="html" xml:base="http://localhost:4000/category1/category2/2025/04/14/visualising-the-future.html"><![CDATA[<h1 id="visualising-the-future">Visualising the future.</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-18T17:29:42+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Artisanal Intelligence</title><subtitle>A blog about artisanal intelligence</subtitle><author><name>Crankbird</name></author><entry><title type="html">Magic Roundabouts(tm) a tool for visualising trends</title><link href="http://localhost:4000/magicroundabouts/futuring/2025/04/15/visualising-the-future.html" rel="alternate" type="text/html" title="Magic Roundabouts(tm) a tool for visualising trends" /><published>2025-04-15T00:00:00+10:00</published><updated>2025-04-15T00:00:00+10:00</updated><id>http://localhost:4000/magicroundabouts/futuring/2025/04/15/visualising-the-future</id><content type="html" xml:base="http://localhost:4000/magicroundabouts/futuring/2025/04/15/visualising-the-future.html"><![CDATA[<h1 id="predicting-the-future-via-trend-visualisation">Predicting the future via trend visualisation.</h1>
 
 <h2 id="intro">Intro</h2>
 
@@ -645,25 +47,22 @@ could have been predicted and exploited if we had taken a broader view.</p>
 
 <h2 id="finding-new-perspectives">Finding new perspectives</h2>
 
-<p>One example for NetApp was what some think of as our “just-in-time”
+<p>One example was what some think of my employer’s “just-in-time”
 recognition of the importance of sustainability at a corporate level.
-The technology evangelism and market strategy team were tasked with
-discovering how we almost missed it and how to identify and take
-advantage of upcoming changes to customer perceptions and buying
-criteria.</p>
+My team were tasked with discovering how we almost missed it and how 
+to identify and take advantage of upcoming changes to customer perceptions 
+and buying criteria.</p>
 
 <p>Our analysis found a range of reasons why, as an organisation, we
 developed a blind spot to the importance of ESG for IT purchase
 decisions instead of primarily investor relations and how other vendors
 like Pure managed to grab a head start. The simplified explanation is
-that NetApp released its inaugural ESG report when energy prices
+that my employer released its inaugural ESG report when energy prices
 worldwide were at the end of a decade-long decline. In contrast, Pure
 released theirs when power prices in Europe and Japan had increased by a
 factor of eight in six months.</p>
 
-<p><img src="/assets/images/visualising-the-future/media/media/image3.png" alt="A graph of a graph showing the growth of the past year Description
-automatically generated with medium
-confidence" /></p>
+<p><img src="/assets/images/visualising-the-future/media/media/image3.png" alt="Two graphs comparing energy prices and the points at which NetApp and Pure released their ESG whitepapers " /></p>
 
 <p>We were probably insensitive to the changes in power prices outside of
 the US because research from McKinsey in 2020 said that improving
@@ -671,12 +70,12 @@ operational efficiency and reducing costs was one of the least impactful
 aspects of ESG and had significantly decreased in importance over the
 prior decade.</p>
 
-<p>Pure was more lucky than good in their ESG timing. However, NetApp also
+<p>Our competitor was more lucky than good in their ESG timing. However, we also
 could have beaten them to the punch if we hadn’t still been working on
 assumptions that remained unchallenged even after the disruptive nature
 of the transition in the US presidency on January 6<sup>th</sup> and
 Russia’s subsequent invasion of Ukraine. Both changed the entire energy
-and regulatory landscape. Yet, because NetApp lacked a way of looking
+and regulatory landscape. Yet, because we lacked a repeatable way of looking
 more broadly at all the forces that impact our stakeholders’
 livelihoods, we allowed our competitors to seize the initiative.</p>
 
@@ -728,7 +127,7 @@ following.</p>
 
 <ul>
   <li>
-    <p>Political –</p>
+    <p>Political</p>
 
     <ul>
       <li>
@@ -810,8 +209,6 @@ all areas of concern.</p>
 
 <p>This should alert us to areas of under or over-investment and potential
 blind spots.</p>
-
-<p>##</p>
 
 <h2 id="measuring-impact">Measuring Impact</h2>
 
@@ -1214,15 +611,7 @@ the edges of the map. This can be addressed by using the complementary
 treemap diagram, which uses exactly the same dataset.</p>
 
 <p>This is clearer to read and preserves the relative overall importance at
-the expense of navigating the trends over time.</p>]]></content><author><name>Your Name</name></author><category term="[&quot;category1&quot;, &quot;category2&quot;]" /><category term="tag1" /><category term="tag2" /><summary type="html"><![CDATA[Visualising the future.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/visualising-the-future/media/media/image1.png" /><media:content medium="image" url="http://localhost:4000/assets/images/visualising-the-future/media/media/image1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Welcome to Artisanal Intelligence</title><link href="http://localhost:4000/2025/04/10/welcome-to-artisanal-intelligence.html" rel="alternate" type="text/html" title="Welcome to Artisanal Intelligence" /><published>2025-04-10T00:00:00+10:00</published><updated>2025-04-10T00:00:00+10:00</updated><id>http://localhost:4000/2025/04/10/welcome-to-artisanal-intelligence</id><content type="html" xml:base="http://localhost:4000/2025/04/10/welcome-to-artisanal-intelligence.html"><![CDATA[<hr />
-
-<p>title: “Welcome to Artisanal Intelligence”
-date: 2025-04-10
-author: crankbird
-layout: post
-—</p>
-
-<h1 id="welcome-to-artisanal-intelligence">Welcome to <em>Artisanal Intelligence</em></h1>
+the expense of navigating the trends over time.</p>]]></content><author><name>Ricky Martin</name></author><category term="[&quot;MagicRoundabouts&quot;, &quot;Futuring&quot;]" /><category term="Longform" /><category term="Introduction" /><category term="Visualisation" /><summary type="html"><![CDATA[Predicting the future via trend visualisation.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/visualising-the-future/media/media/image10.png" /><media:content medium="image" url="http://localhost:4000/assets/images/visualising-the-future/media/media/image10.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Welcome to Artisanal Intelligence</title><link href="http://localhost:4000/2025/04/10/welcome-to-artisanal-intelligence.html" rel="alternate" type="text/html" title="Welcome to Artisanal Intelligence" /><published>2025-04-10T00:00:00+10:00</published><updated>2025-04-15T00:00:00+10:00</updated><id>http://localhost:4000/2025/04/10/welcome-to-artisanal-intelligence</id><content type="html" xml:base="http://localhost:4000/2025/04/10/welcome-to-artisanal-intelligence.html"><![CDATA[<h1 id="welcome-to-artisanal-intelligence">Welcome to <em>Artisanal Intelligence</em></h1>
 
 <blockquote>
   <p>A place where technology meets intentionality, and code meets craft.</p>
@@ -1250,7 +639,7 @@ layout: post
   <p>“The best tools don’t make decisions for you. They help you think better.”</p>
 </blockquote>
 
-<p>Many modern AI systems are black boxes. Artisanal Intelligence seeks the opposite: <strong>white boxes that support clarity.</strong> We believe that design matters. That a well-structured prompt is as important as the model that reads it. That <em>interface is part of intelligence</em>.</p>
+<p>Many modern AI systems are black boxes. Artisanal Intelligence seeks the opposite: <strong>transparent boxes that support clarity.</strong> We believe that design matters. That a well-structured prompt is as important as the model that reads it. That <em>interface is part of intelligence</em>.</p>
 
 <p>Here’s what that might look like in practice:</p>
 
@@ -1262,57 +651,4 @@ layout: post
 <span class="pi">-</span> <span class="na">modular_components</span><span class="pi">:</span> <span class="kc">true</span>
 <span class="pi">-</span> <span class="na">human_feedback</span><span class="pi">:</span> <span class="s">required</span>
 <span class="pi">-</span> <span class="na">corporate_buzzwords</span><span class="pi">:</span> <span class="s">deprecated</span>
-</pre></td></tr></tbody></table></code></pre></div></div>]]></content><author><name>crankbird</name></author><category term="meta" /><category term="provenance" /><category term="ai" /><summary type="html"><![CDATA[Launching a blog grounded in transparency, clarity, and attribution.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/welcome.png" /><media:content medium="image" url="http://localhost:4000/assets/images/welcome.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sample Post with Rich Metadata</title><link href="http://localhost:4000/tech/tutorials/2025/03/11/a-quick-test.html" rel="alternate" type="text/html" title="Sample Post with Rich Metadata" /><published>2025-03-11T00:00:00+11:00</published><updated>2025-03-11T00:00:00+11:00</updated><id>http://localhost:4000/tech/tutorials/2025/03/11/a-quick-test</id><content type="html" xml:base="http://localhost:4000/tech/tutorials/2025/03/11/a-quick-test.html"><![CDATA[<h1 id="sample-post-with-rich-metadata">Sample Post with Rich Metadata</h1>
-
-<p>Welcome to another <strong>sample post</strong> on <em>Artisanal Intelligence</em> — this one is designed to stretch your blog layout and stress-test rich metadata rendering. If you’re seeing this, your Jekyll setup is alive and well. Let’s dive in.</p>
-
-<hr />
-
-<h2 id="-what-this-post-covers">🧭 What This Post Covers</h2>
-
-<p>This is a <em>fully featured sample post</em> to help you test:</p>
-
-<ul>
-  <li>Rendering of headers and lists</li>
-  <li>Syntax highlighting in code blocks</li>
-  <li>Embedded tables and blockquotes</li>
-  <li>Images and inline metadata usage</li>
-  <li>Horizontal rules and callouts</li>
-  <li>Frontmatter parsing in layout</li>
-</ul>
-
-<hr />
-
-<h2 id="-why-this-matters">🧠 Why This Matters</h2>
-
-<blockquote>
-  <p>“A well-structured test post tells you more about your theme than ten broken layouts.”</p>
-</blockquote>
-
-<p>Most blog engines work fine for minimal content. But as your blog matures, you’ll want:</p>
-
-<ul>
-  <li>Good typography for longer reads</li>
-  <li>Semantic support for content like tutorials</li>
-  <li>A flexible layout that works for both casual and technical audiences</li>
-</ul>
-
-<p>This post helps you simulate that real-world complexity — without resorting to lorem ipsum.</p>
-
-<hr />
-
-<h2 id="-sample-code-snippet">🔧 Sample Code Snippet</h2>
-
-<p>Here’s a simple Python function using syntax highlighting:</p>
-
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
-2
-3
-4
-5
-</pre></td><td class="rouge-code"><pre><span class="k">def</span> <span class="nf">greet</span><span class="p">(</span><span class="n">name</span><span class="p">):</span>
-    <span class="nf">print</span><span class="p">(</span><span class="sa">f</span><span class="sh">"</span><span class="s">Hello, </span><span class="si">{</span><span class="n">name</span><span class="si">}</span><span class="s">. Welcome to Artisanal Intelligence.</span><span class="sh">"</span><span class="p">)</span>
-
-<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="sh">"</span><span class="s">__main__</span><span class="sh">"</span><span class="p">:</span>
-    <span class="nf">greet</span><span class="p">(</span><span class="sh">"</span><span class="s">crankbird</span><span class="sh">"</span><span class="p">)</span>
-</pre></td></tr></tbody></table></code></pre></div></div>]]></content><author><name>crankbird</name></author><category term="Tech" /><category term="Tutorials" /><category term="example" /><category term="test" /><category term="rich-content" /><summary type="html"><![CDATA[This is a sample post to test the enhanced layout with rich metadata and content.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/sample.png" /><media:content medium="image" url="http://localhost:4000/assets/images/sample.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</pre></td></tr></tbody></table></code></pre></div></div>]]></content><author><name>Ricky Martin</name></author><category term="meta" /><category term="provenance" /><category term="ai" /><summary type="html"><![CDATA[Launching a blog grounded in transparency, clarity, and attribution.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/welcome-to-artisanal-intelligence.png" /><media:content medium="image" url="http://localhost:4000/assets/images/welcome-to-artisanal-intelligence.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
