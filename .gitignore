@@ -21,4 +21,4 @@ util-scripts/
 setup-remotes.sh
 
 # Logs
-*.log
+*.log_site/
