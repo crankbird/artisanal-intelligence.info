@@ -1,24 +1,16 @@
+# macOS system files
+.DS_Store
+
 # Jekyll build artifacts
 _site/
 .jekyll-cache/
+.jekyll-metadata
 .sass-cache/
 
-# Dependency files (optional if not deploying with them)
+# Ruby dependency lock (can cause cross-platform pain)
 Gemfile.lock
 
-# Editor/IDE stuff
-.vscode/
-.idea/
-*.code-workspace
-
-# macOS & Unix
-.DS_Store
-*.swp
-*~
-
-# Scripts / tooling / dev extras
-util-scripts/
-setup-remotes.sh
-
-# Logs
-*.log_site/
+# Ignore all of .vscode, except the shared config files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
