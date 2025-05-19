@@ -1,5 +1,5 @@
 ---
-title: "The Magic Roundabout™ schematic” a tool for visualising trends"
+title: "The Magic Roundabout™ schematic -  a tool for visualising trends"
 date: 2025-04-15
 last_modified_at: 2025-04-15
 author: Ricky Martin  # Replace with your actual name or handle
