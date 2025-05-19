@@ -1,5 +1,5 @@
 ---
-title: "Magic Roundabouts(tm) a tool for visualising trends"
+title: "The Magic Roundabout™ schematic” a tool for visualising trends"
 date: 2025-04-15
 last_modified_at: 2025-04-15
 author: Ricky Martin  # Replace with your actual name or handle
@@ -11,7 +11,7 @@ ai_assistance: false
 image: /assets/images/visualising-the-future/media/media/image10.png # Default image used in previews or cards
 ---
 
-# Predicting the future via trend visualisation.
+# Predicting the future via trend visualisation using The Magic Roundabout™ schematic
 
 ## Intro
 
@@ -442,14 +442,14 @@ investment is warranted and what kind of management and leadership
 approach is needed to address that item today to prepare ourselves for
 what may happen in the future.
 
-## Bringing it all together – The Magic Roundabout
+## Bringing it all together – The Magic Roundabout™ schematic”
 
 Now that we have all of these requirements clarified, how can we create
 a tool that effectively and visually pleasingly communicates all of
 these with the data we already have or can be gathered easily using
 commonly available tools with minimal need for enablement?
 
-The answer is “The Magic Roundabout”. This combines categories,
+The answer is “The Magic Roundabout™ schematic”. This combines categories,
 watchlist items, impact scores, and McKinsey Horizons into a “Sunburst”
 diagram available to every user of the Microsoft Office suite of
 products. The underlying dataset is an elementary Excel spreadsheet
